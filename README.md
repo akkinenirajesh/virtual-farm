@@ -16,6 +16,17 @@ In order to do that, AI needs a virtual environment to train these things. Doing
 
 ## Journey
 
+### Day 3
+3rd June 2023
+
+I wanted to understand GPU's first. I need to use them to render the virtual farm, and I also need to use them to generate those plants for that virtual farm. 
+I have gone through [Fundamental of GPU Architecture](). And got a prettry good idea of what is going on in GPU. It is a whole set of languages, processes and compilers.
+
+I still need to go though CUDA. I got to know that I might need RTX 4090 GPU, and total system might cost around ₹3,00,000/-
+
+Gone though the interview of Modular framework, where they are super charging Python to support AI development. 
+Idea is good, but super challenging. 
+
 ### Day 2 
 2nd June 2023
 
